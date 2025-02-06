@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "deepseek-ext.helloWorld",
-        "title": "Hello World"
+        "title": "deepseek-chat"
       }
     ]
   },
